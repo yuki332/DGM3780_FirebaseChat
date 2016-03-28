@@ -1,0 +1,15 @@
+{
+  "name": "dgmfirebase",
+  "version": "1.0.0",
+  "description": "Quick and dirty firebase chat app for DGM 3780",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "Landon Conover <landon.conover@gmail.com> (https://github.com/landonconover)",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^0.9.2"
+  }
+}
